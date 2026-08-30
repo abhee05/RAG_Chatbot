@@ -1,0 +1,9 @@
+{
+  "embedding_timestamp": "2026-08-30T06:56:55Z",
+  "chunking_timestamp": "2026-08-30T06:55:49Z",
+  "embedding_model": "sentence-transformers/all-MiniLM-L6-v2",
+  "embedding_dim": 384,
+  "status": "success",
+  "chunks_embedded": 151,
+  "output_path": "/Users/amritatripathi/Documents/NextLeap/BuildClass/data/embeddings/all_embeddings.json"
+}

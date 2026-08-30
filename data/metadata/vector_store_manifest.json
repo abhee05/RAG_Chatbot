@@ -1,0 +1,11 @@
+{
+  "store_timestamp": "2026-08-30T06:56:58Z",
+  "embedding_timestamp": "2026-08-30T06:56:55Z",
+  "ingestion_timestamp": "2026-08-30T06:21:03Z",
+  "collection_name": "hdfc_fund_faq",
+  "embedding_model": "sentence-transformers/all-MiniLM-L6-v2",
+  "embedding_dim": 384,
+  "status": "success",
+  "chunks_stored": 151,
+  "persist_path": "/Users/amritatripathi/Documents/NextLeap/BuildClass/data/vectordb"
+}

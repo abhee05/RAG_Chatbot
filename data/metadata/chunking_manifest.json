@@ -1,0 +1,50 @@
+{
+  "chunking_timestamp": "2026-08-30T06:55:49Z",
+  "ingestion_timestamp": "2026-08-30T06:21:03Z",
+  "status": "success",
+  "documents_chunked": 5,
+  "documents_failed": 0,
+  "total_chunks": 151,
+  "funds": [
+    {
+      "slug": "hdfc-balanced-advantage-fund-direct-growth",
+      "source_url": "https://groww.in/mutual-funds/hdfc-balanced-advantage-fund-direct-growth",
+      "status": "success",
+      "chunk_count": 31,
+      "error": null,
+      "output_path": "/Users/amritatripathi/Documents/NextLeap/BuildClass/data/chunks/hdfc-balanced-advantage-fund-direct-growth.json"
+    },
+    {
+      "slug": "hdfc-elss-tax-saver-fund-direct-plan-growth",
+      "source_url": "https://groww.in/mutual-funds/hdfc-elss-tax-saver-fund-direct-plan-growth",
+      "status": "success",
+      "chunk_count": 30,
+      "error": null,
+      "output_path": "/Users/amritatripathi/Documents/NextLeap/BuildClass/data/chunks/hdfc-elss-tax-saver-fund-direct-plan-growth.json"
+    },
+    {
+      "slug": "hdfc-equity-fund-direct-growth",
+      "source_url": "https://groww.in/mutual-funds/hdfc-equity-fund-direct-growth",
+      "status": "success",
+      "chunk_count": 30,
+      "error": null,
+      "output_path": "/Users/amritatripathi/Documents/NextLeap/BuildClass/data/chunks/hdfc-equity-fund-direct-growth.json"
+    },
+    {
+      "slug": "hdfc-large-cap-fund-direct-growth",
+      "source_url": "https://groww.in/mutual-funds/hdfc-large-cap-fund-direct-growth",
+      "status": "success",
+      "chunk_count": 30,
+      "error": null,
+      "output_path": "/Users/amritatripathi/Documents/NextLeap/BuildClass/data/chunks/hdfc-large-cap-fund-direct-growth.json"
+    },
+    {
+      "slug": "hdfc-small-cap-fund-direct-growth",
+      "source_url": "https://groww.in/mutual-funds/hdfc-small-cap-fund-direct-growth",
+      "status": "success",
+      "chunk_count": 30,
+      "error": null,
+      "output_path": "/Users/amritatripathi/Documents/NextLeap/BuildClass/data/chunks/hdfc-small-cap-fund-direct-growth.json"
+    }
+  ]
+}

@@ -5,19 +5,9 @@ __pycache__/
 venv/
 .env
 
-# Generated data artifacts (keep folder structure via .gitkeep)
-data/raw/html/*
-!data/raw/html/.gitkeep
-data/raw/documents/*
-!data/raw/documents/.gitkeep
-data/chunks/*
-!data/chunks/.gitkeep
-data/embeddings/*
-!data/embeddings/.gitkeep
-data/vectordb/*
-!data/vectordb/.gitkeep
-data/metadata/*
-!data/metadata/.gitkeep
+# Generated data artifacts are versioned so the deployed vector store
+# (ChromaDB) persists on Render's paid plans. .env stays out.
+# data/raw/html/*
 
 # IDE
 .DS_Store

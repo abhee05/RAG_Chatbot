@@ -1,0 +1,48 @@
+{
+  "ingestion_timestamp": "2026-08-30T06:21:03Z",
+  "status": "success",
+  "documents_loaded": 5,
+  "documents_failed": 0,
+  "funds": [
+    {
+      "slug": "hdfc-large-cap-fund-direct-growth",
+      "source_url": "https://groww.in/mutual-funds/hdfc-large-cap-fund-direct-growth",
+      "status": "success",
+      "error": null,
+      "document_path": "/Users/amritatripathi/Documents/NextLeap/BuildClass/data/raw/documents/hdfc-large-cap-fund-direct-growth.json",
+      "html_path": "/Users/amritatripathi/Documents/NextLeap/BuildClass/data/raw/html/hdfc-large-cap-fund-direct-growth.html"
+    },
+    {
+      "slug": "hdfc-equity-fund-direct-growth",
+      "source_url": "https://groww.in/mutual-funds/hdfc-equity-fund-direct-growth",
+      "status": "success",
+      "error": null,
+      "document_path": "/Users/amritatripathi/Documents/NextLeap/BuildClass/data/raw/documents/hdfc-equity-fund-direct-growth.json",
+      "html_path": "/Users/amritatripathi/Documents/NextLeap/BuildClass/data/raw/html/hdfc-equity-fund-direct-growth.html"
+    },
+    {
+      "slug": "hdfc-elss-tax-saver-fund-direct-plan-growth",
+      "source_url": "https://groww.in/mutual-funds/hdfc-elss-tax-saver-fund-direct-plan-growth",
+      "status": "success",
+      "error": null,
+      "document_path": "/Users/amritatripathi/Documents/NextLeap/BuildClass/data/raw/documents/hdfc-elss-tax-saver-fund-direct-plan-growth.json",
+      "html_path": "/Users/amritatripathi/Documents/NextLeap/BuildClass/data/raw/html/hdfc-elss-tax-saver-fund-direct-plan-growth.html"
+    },
+    {
+      "slug": "hdfc-small-cap-fund-direct-growth",
+      "source_url": "https://groww.in/mutual-funds/hdfc-small-cap-fund-direct-growth",
+      "status": "success",
+      "error": null,
+      "document_path": "/Users/amritatripathi/Documents/NextLeap/BuildClass/data/raw/documents/hdfc-small-cap-fund-direct-growth.json",
+      "html_path": "/Users/amritatripathi/Documents/NextLeap/BuildClass/data/raw/html/hdfc-small-cap-fund-direct-growth.html"
+    },
+    {
+      "slug": "hdfc-balanced-advantage-fund-direct-growth",
+      "source_url": "https://groww.in/mutual-funds/hdfc-balanced-advantage-fund-direct-growth",
+      "status": "success",
+      "error": null,
+      "document_path": "/Users/amritatripathi/Documents/NextLeap/BuildClass/data/raw/documents/hdfc-balanced-advantage-fund-direct-growth.json",
+      "html_path": "/Users/amritatripathi/Documents/NextLeap/BuildClass/data/raw/html/hdfc-balanced-advantage-fund-direct-growth.html"
+    }
+  ]
+}
