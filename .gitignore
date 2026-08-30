@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+
+# Generated data artifacts (keep folder structure via .gitkeep)
+data/raw/html/*
+!data/raw/html/.gitkeep
+data/raw/documents/*
+!data/raw/documents/.gitkeep
+data/chunks/*
+!data/chunks/.gitkeep
+data/embeddings/*
+!data/embeddings/.gitkeep
+data/vectordb/*
+!data/vectordb/.gitkeep
+data/metadata/*
+!data/metadata/.gitkeep
+
+# IDE
+.DS_Store
+.idea/
+.vscode/
